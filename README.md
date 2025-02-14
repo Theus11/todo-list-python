@@ -4,8 +4,12 @@ Este é um projeto de afazeres desenvolvido em Python com interface gráfica usa
 
 ## Funcionalidades
 - Adicionar tarefas
+- Editar tarefas
+- Limpar tarefas
 - Remover tarefas
 - Marcar tarefas como concluídas
+- Salvar tarefas em um arquivo JSON
+- Carregar tarefas de um arquivo JSON
 
 ## Como Executar
 1. Clone o repositório.
