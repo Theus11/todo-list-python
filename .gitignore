@@ -4,3 +4,7 @@ __pycache__/
 *.pyd
 .env
 venv/
+dist/
+build/
+tasks.json
+todo-app.spec
